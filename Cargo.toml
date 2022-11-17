@@ -1,0 +1,16 @@
+[package]
+name = "rusty-hangman"
+version = "0.1.0"
+edition = "2021"
+authors = ["BOUSIOS Nikolaos <nickos.bou@gmail.com>"]
+description = "A simple hangman game written in Rust"
+readme = "README.md"
+homepage = "rambou.gr"
+repository = "https://github.com/Rambou/rusty-hangman"
+license = "MIT"
+license-file = "LICENSE"
+keywords = ["hangman", "game"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
